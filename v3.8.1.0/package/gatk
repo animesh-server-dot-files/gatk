@@ -1,2 +1,2 @@
 #!/bin/sh
-java $JVM_OPTS -jar $MODULE_PREFIX/nibmg_module_files/modules_source/gatk/v3.8.1.0/package/GenomeAnalysisTK.jar "$@"
+java $JVM_OPTS -jar $MODULE_PREFIX/modules_source/gatk/v3.8.1.0/package/GenomeAnalysisTK.jar "$@"
